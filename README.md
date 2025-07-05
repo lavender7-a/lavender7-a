@@ -5,7 +5,7 @@ I'm an aspiring **Web Developer** and **Tech Enthusiast**, currently exploring t
 
 
 ## 🌱 About Me
-- 💻 Passionate about **Frontend** web technologies  
+- 💻 Passionate about **Frontend & Backend** web technologies  
 - 📫 Reach me at: [ankit01hazra@gmail.com](mailto:ankit01hazra@gmail.com)  
 - ⚡ Fun Fact: I love **coding**, **dancing**, and **exploring new tech** 💃🍜
 
